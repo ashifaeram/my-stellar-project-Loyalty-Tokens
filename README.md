@@ -68,7 +68,7 @@ Returns the token balance of a user.
 
 ## 🔗 Deployed Smart Contract Link
 
-👉 *Add your deployed contract link here*
+https://stellar.expert/explorer/testnet/contract/CB7H5ME72LGQX4GQVLLEUU43Y2WACLQYL4GJ4SRS62AFBUKELA4KS3SL
 
 ---
 
